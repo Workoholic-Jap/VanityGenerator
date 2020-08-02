@@ -1,6 +1,8 @@
 # VanityGenerator
 A Java implementation of Bitcoin address Vanity Generator
-
+## neue Zeil einfügen
+eine neue Zeile
+ine weitere Zeile
 This project is inspired by <a href="https://bitcointalk.org/index.php?topic=25804.0">Vanitygen</a> that is built in Java and relies on <a href="https://github.com/bitcoinj/bitcoinj">bitcoinJ</a>.
 
 What it does:
